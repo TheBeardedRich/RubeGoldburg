@@ -2,14 +2,17 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Flapper4_collision : MonoBehaviour {
-    //Make Material 'Flapper 4' public
-    public Material Flapper4;
+public class Domino1 : MonoBehaviour {
+    //Make AudioSource Public
+    public AudioSource TapSound;
 
 
     // Use this for initialization
     void Start()
     {
+
+        //Assigning Tap Sound as Audio Source
+        TapSound = GetComponent<AudioSource>();
 
     }
 
@@ -22,11 +25,12 @@ public class Flapper4_collision : MonoBehaviour {
     //Once Collision Occurs
     void OnCollisionEnter(Collision cul)
     {
-        //If Ball hits Flapper4
+        //If Ball hits Domino play Tap
         if (cul.gameObject.name == "Ball")
-            //Change material to Flapper 4
-            GetComponent<Renderer>().material = Flapper4;
+            TapSound.Play();
+
     }
 
 
 }
+
