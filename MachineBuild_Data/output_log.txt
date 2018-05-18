@@ -1,0 +1,36 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 750 Ti (ID=0x1380)
+    Vendor:   NVIDIA
+    VRAM:     2007 MB
+    Driver:   23.21.13.9135
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Users\Richard\Documents\University\GameDevelopmentPipeline\Assignment2\RubeGoldburgMachine\MachineBuild_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.035327 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 13e8 -> priority: 1 
+  Thread -> id: ecc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.335009 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1379.
+Total: 0.403634 ms (FindLiveObjects: 0.111386 ms CreateObjectMapping: 0.033982 ms MarkObjects: 0.228059 ms  DeleteObjects: 0.029451 ms)
+
